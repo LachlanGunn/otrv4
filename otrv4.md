@@ -4874,9 +4874,9 @@ Compute:
 10. Bernstein, D. and T. Lange. (2007). *Projective coordinates for Edwards
     curves*, The 'add-2007-bl' addition formulas. Available at:
     http://www.hyperelliptic.org/EFD/g1p/auto-edwards-projective.html#addition-add-2007-bl
-11. Blake-Wilson, S., Johnson, D., Menezes, A. (1997) *Key Agreement Protocols
+11. Blake-Wilson, S., Johnson, D. and Menezes, A. (1997) *Key Agreement Protocols
     and their Security Analysis*. Available at:
     https://dl.acm.org/citation.cfm?id=742138
-12. Gunn, L. J., Vieitez Parra, R., Asokan, N. (2018) *On The Use of Remote Attestation
+12. Gunn, L. J., Vieitez Parra, R. and Asokan, N. (2018) *On The Use of Remote Attestation
     to Break and Repair Deniability*. Available at:
     https://eprint.iacr.org/2018/424.pdf
